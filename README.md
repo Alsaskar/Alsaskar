@@ -12,6 +12,6 @@ Yang saya bisa adalah :
 - MySQL - Normalisasi Database
 
 -----
-
+### Keterangan
 * Untuk Anda yang mau dibuatkan aplikasi sesuai kebutuhan atau mau ajak saya untuk kerja di perusahaan, silahkan hubungi saya pada kontak yang tertera.
 * Portfolio saya juga bisa Anda lihat melalui repo yang telah saya upload ke akun github ini
