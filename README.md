@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hallo 👋, Saya Alsaskar Mirando
 
-<!--
-**Alsaskar/Alsaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang fullstack developer, bahasa pemogramman yang saya gunakan adalah Javascript. 
 
-Here are some ideas to get you started:
+- 🔭 Saat ini saya adalah seorang freelance yang bekerja sebagai Web Developer dan Android Developer 
+- 🌱 Saat ini saya sedang belajar IOT (Internet of Things) dan Elektronik
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yang saya bisa adalah :
+- HTML & CSS
+- Javascript (NodeJs, React JS, React Native)
+- PHP (Codeigniter 3)
+- MySQL - Normalisasi Database
+
+* Untuk Anda yang mau dibuatkan aplikasi sesuai kebutuhan atau mau ajak saya untuk kerja di perusahaan, silahkan hubungi saya pada kontak yang tertera.
+* Portfolio saya juga bisa Anda lihat melalui repo yang telah saya upload ke akun github ini
