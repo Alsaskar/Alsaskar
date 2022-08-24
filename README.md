@@ -7,7 +7,7 @@ Saya seorang fullstack developer, bahasa pemogramman yang saya gunakan adalah Ja
 
 Yang saya bisa adalah :
 - HTML & CSS
-- Javascript (NodeJs, React JS, React Native)
+- Javascript (NodeJs, React JS, React Native, Flutter)
 - PHP (Codeigniter 3)
 - MySQL - Normalisasi Database
 
