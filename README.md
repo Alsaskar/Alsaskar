@@ -1,15 +1,27 @@
 ### Hallo 👋, Saya Alsaskar Mirando
 
-Saya seorang fullstack developer, bahasa pemogramman yang saya gunakan adalah Javascript. 
+Saya seorang Fullstack Developer, bahasa pemogramman yang saya gunakan adalah Javascript. 
 
-- 🔭 Saat ini saya adalah seorang freelance yang bekerja sebagai Web Developer dan Android Developer 
-- 🌱 Saat ini saya sedang belajar IOT (Internet of Things) dan Elektronik
+- 🌱 Saat ini saya sedang belajar IOT (Internet of Things) dan Ethical Hacking
 
-Yang saya bisa adalah :
-- HTML & CSS
-- Javascript (NodeJs, React JS, React Native, Flutter)
-- PHP (Codeigniter 3)
-- MySQL - Normalisasi Database
+Teknologi yang saya bisa :
+- PHP
+- Codeigniter
+- Javascript
+- Jquery
+- Dart
+- Flutter
+- Node JS
+- React JS
+- Express JS
+- Python
+
+Teknologi yang saya gunakan saat ini :
+- Flutter
+- Node JS
+- React JS
+- Express JS
+- Python
 
 -----
 ### Keterangan
